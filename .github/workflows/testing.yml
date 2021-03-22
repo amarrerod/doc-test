@@ -1,4 +1,4 @@
-name: Node.js CI
+name: Testing with Mocha and Chai
 
 on:
   push:
